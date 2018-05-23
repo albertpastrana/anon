@@ -3,7 +3,8 @@
 </p>
 
 # Anon — A UNIX Command To Anonymise Data
-[![Build Status](https://travis-ci.org/intenthq/anon.svg?branch=master)](https://travis-ci.org/intenthq/anon) <a href="https://codecov.io/gh/intenthq/anon">
+[![Build Status](https://travis-ci.org/intenthq/anon.svg?branch=master)](https://travis-ci.org/intenthq/anon) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falbertpastrana%2Fanon.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falbertpastrana%2Fanon?ref=badge_shield)
+<a href="https://codecov.io/gh/intenthq/anon">
   <img src="https://codecov.io/gh/intenthq/anon/branch/master/graph/badge.svg" />
 </a> [![Go Report Card](https://goreportcard.com/badge/github.com/intenthq/anon)](https://goreportcard.com/report/github.com/intenthq/anon)
 
@@ -101,3 +102,6 @@ In order to be useful, Anon needs to be told what you want to do to each column 
 This project is [licensed under the MIT license](LICENSE).
 
 The icon is by [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) from [Flaticon](https://www.flaticon.com/), and is licensed under a [Creative Commons 3.0 BY](http://creativecommons.org/licenses/by/3.0/) license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falbertpastrana%2Fanon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falbertpastrana%2Fanon?ref=badge_large)
